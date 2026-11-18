@@ -291,7 +291,7 @@
 - エージェント側で処理できないもの（ユーザーの端末設定、ローカル側の調査が必要なもの）は、その旨を明記して分離する。進んでいるふりをしない。
 
 ### 出典
-- この仕組みの着想は「Muse健康診断ボード」の提案投稿（X、そらとひかり @noctiluce_sora、2026-11-16。中村としや @tsyn18 による続報投稿も同趣旨）。自分のMuseの記憶・仕組み・連携の状態をボードに可視化するという提案で、原運用ではそこに「止まっているものだけを先頭に出す」「実データ取得で接続を確認する」を足して実装した。投稿の個別URLは未確認のため、著者と日付で示す。
+- この仕組みの着想は「Muse健康診断ボード」の提案投稿（X、そらとひかり @noctiluce_sora、2026-11-16： https://x.com/noctiluce_sora/status/2122338094171275739 。中村としや @tsyn18 による続報投稿も同趣旨で、こちらは個別URL未確認のため著者名のみで示す）。自分のMuseの記憶・仕組み・連携の状態をボードに可視化するという提案で、原運用ではそこに「止まっているものだけを先頭に出す」「実データ取得で接続を確認する」を足して実装した。
 
 ## 導入順序（推奨）
 
@@ -310,7 +310,7 @@
 - Beeper Desktop API 公式ドキュメント: https://developers.beeper.com/desktop-api/
 - Beeper Desktop MCP 設定手順: https://developers.beeper.com/desktop-api/mcp/
 - vivisuke「Museを使ってQA工程を『全身を赤く塗ってもいいほど』爆速化（当社比）した話」Qiita, 2026-11-11: https://qiita.com/vivisuke2025/items/a78d245c4040e6e60c00
-- 「Muse健康診断ボード」の提案：X投稿、そらとひかり（@noctiluce_sora）2026-11-16、および中村としや（@tsyn18）の続報投稿。個別URLは未確認。
+- 「Muse健康診断ボード」の提案：X投稿、そらとひかり（@noctiluce_sora）2026-11-16： https://x.com/noctiluce_sora/status/2122338094171275739 ／ 中村としや（@tsyn18）の続報投稿（個別URLは未確認）。
 - フィード実例：Zenn https://zenn.dev/feed ／ arXiv RSS（cs.SE）https://rss.arxiv.org/rss/cs.SE ／ arXiv RSS（cs.HC）https://rss.arxiv.org/rss/cs.HC
 
 上記以外の仕組み（朝の見回り、メール索引、習慣ループ、家計の検算、選別基準の育成、変化の監視、ライフイベントの見守り、AI間ブリッジの運用ルール、セレンディピティ枠）は、原運用の中でユーザーの評価と修正の往復から作られたもので、外部の出典はない。
